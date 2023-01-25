@@ -27,10 +27,5 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
 
-### 🌱 Recently I'm Learning About...
-- No SQL (Redis)
-- Design Patterns
-- Project Refactoring
-- Algorithm
 
 ![Minsub's Greatest GitHub](https://github-readme-stats.vercel.app/api?username=msKim92&theme=great-gatsby&show_icons=true)
