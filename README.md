@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 
 
 ##  ✨Stacks 
+`Java`    
+`SpringBoot`     
+`JPA, MyBatis`  
+`MySQL`      
+`AWS`   
 
-``` Java | SpringBoot | JPA | MySQL | AWS ```
 
-<div>
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="40" height="40"/> <img src="https://miro.medium.com/max/500/1*AbiX4LwtSNozoyfypcKvEg.png" alt="icon" width="40" height "40"/>
-<img src="https://www.docs4dev.com/static/icon/icon-spring-data.png" alt="icon" width="40" height="40" /> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" /> <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" widthㅣ="40" height="40" />  
-</div>  
 
 
 
