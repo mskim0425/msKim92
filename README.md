@@ -20,11 +20,7 @@ Here are some ideas to get you started:
 
 
 ##  ✨Stacks 
-`Java`    
-`SpringBoot`     
-`JPA, MyBatis`  
-`MySQL`      
-`AWS`   
+`Java` `SpringBoot` `JPA, MyBatis` `MySQL` `AWS`   
 
 
 
